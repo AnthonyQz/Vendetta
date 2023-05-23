@@ -21,7 +21,7 @@
             false, false, "#999999"
         ],
         "TEXT_LINK": [
-            false, false, "#e3242b"
+            true, true, "#e3242b"
         ],
         "TEXT_DANGER": [
             false, false, "#e3242b"
