@@ -80,7 +80,7 @@
         "SPOILER_REVEALED_BACKGROUND": [
             "transparent"
         ],
-        "CHANNELTEXT_AREA_PLACEHOLDER": [
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
             "#950000"
         ],
         "CHAT_BACKGROUND": [
@@ -99,7 +99,7 @@
         "PRIMARY_200": "#ffffff",
         "PRIMARY_300": "#ffffff",
         "PRIMARY_360": "#999999",
-        "PRIMARY_400": "#e3242b",
+        "PRIMARY_400": "#950000",
         "PRIMARY_500": "#999999",
         "PRIMARY_600": "#000000",
         "PRIMARY_630": "#000000",
