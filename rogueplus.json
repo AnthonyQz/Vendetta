@@ -88,9 +88,7 @@
         ],
         "CHANNELS_DEFAULT": [
             false, false, "#999999"
-        ],
-        "TEXT_LINK": [
-            false, false, "#e3242b"
+
         ],
         "CHANNEL_ICON": [
             false, false, "#ffffff"
