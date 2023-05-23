@@ -120,5 +120,11 @@
         "RED_560" : "#e3242b",
         "RED_400": "#e3242b"
     },
-  "spec": 2
+  "spec": 2,
+  "background": {
+      "url": "https://raw.githubusercontent.com/AnthonyQz/Vendetta/main/Untitled71_20230524004830.png",
+      "alpha": 0.5,
+      "color": "#000000"
+    }
 }
+    
