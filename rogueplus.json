@@ -118,9 +118,9 @@
         "RED_560" : "#e3242b",
         "RED_400": "#e3242b"
     },
-  "spec": 15,
+  "spec": 2,
   "background": {
-      "url": "https://raw.githubusercontent.com/AnthonyQz/Vendetta/main/Untitled71_20230524004830.png",
+      "url": "https://media.discordapp.net/attachments/926304967504035911/1126206125751152894/Untitled71_20230706014047.png",
       "alpha": 0.5,
       "color": "#000000"
     }
